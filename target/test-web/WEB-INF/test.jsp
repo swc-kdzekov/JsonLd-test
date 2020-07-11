@@ -9,10 +9,8 @@
 <html>
 <head>
     <title>Tests file</title>
-    JSONLDParser successfully created!
-
 </head>
 <body>
-
+            JSONLDParser successfully created!
 </body>
 </html>
