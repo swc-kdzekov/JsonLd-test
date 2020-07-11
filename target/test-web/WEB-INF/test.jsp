@@ -9,7 +9,8 @@
 <html>
 <head>
     <title>Tests file</title>
-    This is only a test file :) :)
+    JSONLDParser successfully created!
+
 </head>
 <body>
 
